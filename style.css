@@ -1,0 +1,183 @@
+
+body{
+    background-color: burlywood;
+}
+img{
+    width: 80%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.foto1{
+   
+    width: 50%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 0.5%;
+    margin-top: -0.5%;
+}
+.foto15{
+   
+    width: 68%;
+    display: inline-block;
+    margin-left: 45%;
+    margin-right: 0.5%;
+    margin-top: -90%;
+}
+.grupo-fotos{
+    background-color:#E0ACD5(255, 0, 179);
+    margin-top: 5%;
+}
+.foto2{
+  
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 2%;
+}
+.foto3{
+    
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 2%;
+}
+.foto4{
+    
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 6%;
+}
+.foto5{
+    
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 6%;
+    margin-bottom: 5,5%;
+}
+.foto6{
+   
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 6%;
+    margin-bottom: 5;
+ 
+    
+}
+.texto{
+    width: 100%;
+    background-color: #6A3E37;
+    text-align: center;
+}
+.myButton {
+	
+	border-radius:42px;
+	
+	display:inline-block;
+	cursor:pointer;
+	
+	font-family:Times New Roman;
+	font-size:28px;
+	padding:15px 37px;
+	text-decoration:none;
+	text-shadow:-1px 1px 2px #662828;
+}
+
+.myButton:active {
+	position:"";
+	top:1px;
+}
+.myButton {
+	
+    border-radius:42px;
+    
+    display:inline-block;
+    cursor:pointer;
+    
+    font-family:Times New Roman;
+    font-size:28px;
+    padding:15px 37px;
+    text-decoration:none;
+    text-shadow:-1px 1px 2px #662828;
+}
+
+.myButton:active {
+    position:relative;
+    top:1px;
+    margin-right: 300xp;
+}
+
+.myButton2:active {
+	position:"";
+	top:1px;
+}
+.myButton2 {
+	
+    border-radius:42px;
+    
+    display:inline-block;
+    cursor:pointer;
+    
+    font-family:Times New Roman;
+    font-size:28px;
+    padding:15px 37px;
+    text-decoration:none;
+    text-shadow:-1px 1px 2px #662828;
+
+}
+
+.myButton2:active {
+   
+    margin-right: 300xp;
+   
+}
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative; /* Esto hace que los elementos dentro de este contenedor se posicionen en relación a él */
+    height: 100vh; /* Hace que el contenedor ocupe toda la altura de la ventana del navegador */
+    background-color: #f0f0f0; /* Fondo gris claro para visualizar mejor los botones */
+}
+
+.boton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    position: relative; /* Este es el position relativo en el botón */
+}
+
+/* Posicionando el primer botón 30px hacia abajo desde su posición normal */
+.boton:nth-child(1) {
+    top: 350px;
+}
+
+/* Posicionando el segundo botón 50px desde la derecha de su posición normal */
+.boton:nth-child(2) {
+    left: 58px;
+    top: 350px;
+}
+
+/* Posicionando el tercer botón 50px hacia abajo y 100px desde la derecha de su posición normal */
+.boton:nth-child(3) {
+    top: 350px;
+    left: 180px;
+}
+body{
+    background-color: burlywood;
+}
