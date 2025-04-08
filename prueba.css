@@ -39,10 +39,10 @@ body {
     left: 550px;
 
 }
-.boton:hover {
+.boton2:hover {
 	background-color:#5cbf2a;
 }
-.boton:active {
+.boton2:active {
 	position:relative;
 	
 }
