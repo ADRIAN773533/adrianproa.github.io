@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(255, 24, 24, 0.699);
+    background-color: rgba(255, 32, 24, 0.699);
 }
 .myButton {
 	background-color:#44c767;
@@ -20,4 +20,47 @@ body{
 .myButton:active {
 	position:relative;
 	top:1px;
+}
+.boton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    position: relative; 
+    top:420px;
+    left: 140px;
+}
+.boton:hover {
+	background-color:#5cbf2a;
+
+
+
+}
+.foto16{
+   
+    width: 5%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 0.5%;
+    margin-top: -0.5%;
+}
+.foto2{
+   
+    width: 4%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 0.5%;
+    margin-top: -0.5%;
+}
+
+.foto17{
+   
+    width: 4%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 5%;
+    margin-top: -0.5%;
 }
