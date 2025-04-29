@@ -23,10 +23,7 @@ img{
     margin-right: 0.5%;
     margin-top: -90%;
 }
-.grupo-fotos{
-    background-color:#E0ACD5(255, 0, 179);
-    margin-top: 5%;
-}
+
 .foto2{
   
     width: 30%;
@@ -181,4 +178,101 @@ body {
 body{
     background-color: burlywood;
 }
+.foto25{
+   
+    width: 70%;
+   
+    margin-left: 42%;
+    margin-right: 0.5%;
+    margin-top: -26%;
+}
+.foto30{
+   
+    width: 34%;
+    
+    margin-left: 1%;
+    margin-right: 0%;
+    margin-top:-5%;
+}
+
+.foto32{
+   
+    width: 40%;
+    margin-top:-9%;
+   
+   
+}
+.foto33{
+   
+    width: 40%;
+    margin-top:-46%;
+   
+   
+}
+.foto31{
+   
+    width: 58%;
+    
+    margin-left: 47%;
+    margin-right: 0%;
+    margin-top:-0%;
+}
+.foto16{
+   
+    width: 58%;
+    
+    margin-left: 47%;
+    margin-right: 0%;
+    margin-top:-0%;
+}
+
+.foto16{
+   
+    width: 40%;
+   
+    margin-left: 1%;
+    margin-right: 0.5%;
+    margin-top: -0.5%;
+}
+.foto35{
+   
+    width: 55%;
+    
+    margin-left: 40%;
+    margin-right: 0.5%;
+    margin-top: -20%;
+}
+.foto36{
+   
+    width: 40%;
+   
+    margin-left: 1%;
+    margin-right: 0.5%;
+    margin-top: -19%;
+}
+.foto40{
+   
+    width: 50%;
+    display: inline-block;
+    margin-left: 47%;
+    margin-right: 0.5%;
+    margin-top: -0.5%;
+}
+.foto41{
+   
+    width: 50%;
+    display: inline-block;
+    margin-left: 0%;
+    margin-right: 0.5%;
+    margin-top: -12%;
+}
+.foto42{
+   
+    width: 50%;
+    display: inline-block;
+    margin-left: 0%;
+    margin-right: 0.5%;
+    margin-top: -14%;
+}
+
 

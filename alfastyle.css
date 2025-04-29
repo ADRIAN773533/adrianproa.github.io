@@ -41,16 +41,16 @@ body{
 }
 .foto16{
    
-    width: 5%;
-    display: inline-block;
+    width: 1%;
+   
     margin-left: 1%;
     margin-right: 0.5%;
     margin-top: -0.5%;
 }
 .foto2{
    
-    width: 4%;
-    display: inline-block;
+    width: -30%;
+    
     margin-left: 1%;
     margin-right: 0.5%;
     margin-top: -0.5%;
@@ -63,4 +63,12 @@ body{
     margin-left: 1%;
     margin-right: 5%;
     margin-top: -0.5%;
+}
+.foto25{
+   
+    width: 8%;
+    
+    margin-left: 4%;
+    margin-right: 0.5%;
+    margin-top: -30%;
 }
