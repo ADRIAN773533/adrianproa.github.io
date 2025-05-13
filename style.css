@@ -34,10 +34,10 @@ img{
 .foto15{
    
     width: 68%;
-    display: inline-block;
+   
     margin-left: 45%;
     margin-right: 0.5%;
-    margin-top: -90%;
+    margin-top: -45%;
 }
 
 .foto2{
@@ -321,4 +321,20 @@ body{
     position: relative; /* Este es el position relativo en el botón */
     left: 680px;
     top: -100px;
+}
+.foto17{
+   
+    width: 64%;
+    
+    margin-left: 46%;
+    margin-right: 0%;
+    margin-top:-0%;
+}
+.foto57{
+   
+    width: 57%;
+    
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top:-27%;
 }
