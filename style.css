@@ -302,6 +302,12 @@ body{
     left: 580px;
     top: -100px;
 }
+.boton2:hover {
+	background-color:#a654f3;
+
+
+
+}
 .foto50{
    
     width: 35%;
@@ -321,6 +327,12 @@ body{
     position: relative; /* Este es el position relativo en el botón */
     left: 680px;
     top: -100px;
+}
+.boton3:hover {
+	background-color:#bf2a2a;
+
+
+
 }
 .foto17{
    
